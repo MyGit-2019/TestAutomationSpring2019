@@ -1,4 +1,4 @@
-package com.cybertek.batch8Practice;
+package com.cybertek.TestNGPreviousBatches;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;

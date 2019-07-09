@@ -1,7 +1,7 @@
 package com.cybertek.utilities;
 
 public class SeleniumUtils {
-    public void verifyEquals(String expectedResult,String actualResult){
+    public static void verifyEquals(String expectedResult,String actualResult){
         if(expectedResult.equals(actualResult)){
             System.out.println("Passed");
         }else{

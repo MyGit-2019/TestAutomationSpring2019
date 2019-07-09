@@ -1,4 +1,4 @@
-package com.cybertek.batch8Practice;
+package com.cybertek.TestNGPreviousBatches;
 
 import com.cybertek.utilities.BrowserFactory;
 import org.openqa.selenium.By;

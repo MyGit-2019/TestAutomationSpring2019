@@ -1,4 +1,4 @@
-package com.cybertek.batch8Practice;
+package com.cybertek.TestNGPreviousBatches;
 
 public class Unit {
     public int add(int a,int b){

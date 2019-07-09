@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7181179-31c9-41d9-b8ea-ddcaf01a87b1" name="Default Changelist" comment="" />
+    <list default="true" id="c7181179-31c9-41d9-b8ea-ddcaf01a87b1" name="Default Changelist" comment="batch8Practice added-2nd part">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/TestNGPreviousBatches/DependenciesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/TestNGPreviousBatches/MoreDependenciesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/TestNGPreviousBatches/OrderOfThings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/day4/Temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/day7/DrowpDownsPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/day7/HTMLPopups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/day7/TabsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/day8/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/AmazonDepartmentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/AmazonDepartmentsAlphabeticalOrderVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/DragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/FileExistsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/GoogleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/IFrameDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/ScrollTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/SoftAssertionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/DoubleClickTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/HoverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/FirstAutomationScript.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/batch8Practice/ATestThatCleansUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/TestNGPreviousBatches/ATestThatCleansUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/batch8Practice/AssertionsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/TestNGPreviousBatches/AssertionsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/batch8Practice/TestNGDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/TestNGPreviousBatches/TestNGDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/batch8Practice/Unit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/TestNGPreviousBatches/Unit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/batch8Practice/UnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/TestNGPreviousBatches/UnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/day4/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/day6/CheckBoxTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/day6/CheckBoxTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/day6/RadioButtonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/day6/RadioButtonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/SeleniumUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/SeleniumUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/FirstAutomationScript.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/day4/AddToCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/day4/AddToCart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/day4/FakerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/day4/FakerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/day4/ForgotPassword.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/day4/ForgotPassword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/day4/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/day4/test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/day4/test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/day4/test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/day4/test3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/day5Locators/EbayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/day5Locators/EbayTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/day5Locators/LocatorsPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/day5Locators/LocatorsPractice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/day5Locators/PracticeLocatorsClassName.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/day5Locators/PracticeLocatorsClassName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/day6/AmazonSearchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/day6/AmazonSearchTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/day6/CheckBoxTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/day6/CheckBoxTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/day6/RadioButtonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/day6/RadioButtonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/day6/WikipediaSelenium.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/day6/WikipediaSelenium.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/locatorsHomework/EtsyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/locatorsHomework/EtsyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/locatorsHomework/GoogleResultsTitle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/locatorsHomework/GoogleResultsTitle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/locatorsHomework/VytrackShortCutFuncTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/locatorsHomework/VytrackShortCutFuncTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/locatorsHomework/VytrackTitleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/locatorsHomework/VytrackTitleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/practiceCybertekWebPageTest/LoginNegativeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/practiceCybertekWebPageTest/LoginNegativeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/BrowserFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/BrowserFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/SeleniumUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/SeleniumUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/vyTrack/VehicleContractNegativeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/vyTrack/VehicleContractNegativeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/vyTrack/VehicleContractPositiveTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/vyTrack/VehicleContractPositiveTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/vyTrack/VyTrackLoginLogoutTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/vyTrack/VyTrackLoginLogoutTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,36 +70,20 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/locatorsHomework/GoogleResultsTitle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="54" column="74" selection-start-line="49" selection-start-column="11" selection-end-line="54" selection-end-column="74" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/batch8Practice/TestNGDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,7 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/day3/FirstAutomationScript.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/FirstAutomationScript.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/day4/FakerTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/day4/ForgotPassword.java" />
@@ -69,9 +108,6 @@
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/vyTrack/VyTrackLoginLogoutTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/day6/WikipediaSelenium.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/day6/AmazonSearchTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/SeleniumUtils.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/day6/RadioButtonTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/day6/CheckBoxTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/locatorsHomework/GoogleResultsTitle.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/locatorsHomework/EtsyTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/locatorsHomework/VytrackTitleTest.java" />
@@ -82,6 +118,30 @@
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/batch8Practice/TestNGDemo.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/batch8Practice/AssertionsDemo.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/batch8Practice/ATestThatCleansUp.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/TestNGPreviousBatches/ATestThatCleansUp.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/TestNGPreviousBatches/OrderOfThings.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/TestNGPreviousBatches/DependenciesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/TestNGPreviousBatches/MoreDependenciesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/batch10Homeworks/AmazonDepartmentsAlphabeticalOrderVerification.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/batch10Homeworks/AmazonDepartmentTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/SeleniumUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/day7/DrowpDownsPractice.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/batch10Homeworks/IFrameDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/day6/CheckBoxTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/day7/TabsExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/day7/HTMLPopups.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/day4/TestMaininInterface.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/day6/RadioButtonTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/day4/Temp.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/GoogleDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/day8/Task1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/SoftAssertionExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/DoubleClickTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/HoverTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/ScrollTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/DragAndDrop.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/FileExistsTest.java" />
       </list>
     </option>
   </component>
@@ -98,10 +158,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="128" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1152" />
+    <option name="width" value="1280" />
     <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -112,6 +171,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -129,6 +189,12 @@
               <item name="TestAutomationSpring2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestAutomationSpring2019" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestAutomationSpring2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestAutomationSpring2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -153,17 +219,19 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cybertek" type="462c0819:PsiDirectoryNode" />
-              <item name="locatorsHomework" type="462c0819:PsiDirectoryNode" />
+              <item name="day4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunDashboard">
@@ -178,35 +246,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.ATestThatCleansUp">
-    <configuration name="ATestThatCleansUp" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.FileExistsTest.test">
+    <configuration name="DragAndDrop.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestAutomationSpring2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.batch8Practice.*" />
+          <option name="PATTERN" value="com.cybertek.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.batch8Practice" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.batch8Practice.ATestThatCleansUp" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ATestThatCleansUp.searchAmazon" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestAutomationSpring2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.batch8Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.batch8Practice" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.batch8Practice.ATestThatCleansUp" />
-      <option name="METHOD_NAME" value="searchAmazon" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.DragAndDrop" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -214,34 +265,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AssertionsDemo" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DragAndDrop.test2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestAutomationSpring2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.batch8Practice.*" />
+          <option name="PATTERN" value="com.cybertek.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.batch8Practice" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.batch8Practice.AssertionsDemo" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AssertionsDemo.testOne" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestAutomationSpring2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.batch8Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.batch8Practice" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.batch8Practice.AssertionsDemo" />
-      <option name="METHOD_NAME" value="testOne" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.DragAndDrop" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -249,17 +283,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNGDemo" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FileExistsTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestAutomationSpring2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.batch8Practice.*" />
+          <option name="PATTERN" value="com.cybertek.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.batch8Practice" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.batch8Practice.TestNGDemo" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.FileExistsTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScrollTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomationSpring2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.ScrollTest" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScrollTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomationSpring2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.ScrollTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -268,11 +338,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.ATestThatCleansUp" />
-        <item itemvalue="TestNG.ATestThatCleansUp.searchAmazon" />
-        <item itemvalue="TestNG.AssertionsDemo" />
-        <item itemvalue="TestNG.AssertionsDemo.testOne" />
-        <item itemvalue="TestNG.TestNGDemo" />
+        <item itemvalue="TestNG.FileExistsTest.test" />
+        <item itemvalue="TestNG.DragAndDrop.test2" />
+        <item itemvalue="TestNG.DragAndDrop.test" />
+        <item itemvalue="TestNG.ScrollTest.test" />
+        <item itemvalue="TestNG.ScrollTest" />
       </list>
     </recent_temporary>
   </component>
@@ -294,39 +364,46 @@
       <option name="project" value="LOCAL" />
       <updated>1562200299351</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="batch8Practice added-2nd part">
+      <created>1562200389961</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562200389961</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UnitTest - 2019.07.03 at 12h 35m 43s.xml">
-      <configuration name="UnitTest" configurationId="TestNG" />
+    <history-entry file="DragAndDrop_test - 2019.07.09 at 14h 56m 06s.xml">
+      <configuration name="DragAndDrop.test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestNGDemo_testOne - 2019.07.03 at 12h 44m 58s.xml">
-      <configuration name="TestNGDemo.testOne" configurationId="TestNG" />
+    <history-entry file="DragAndDrop_test - 2019.07.09 at 14h 57m 24s.xml">
+      <configuration name="DragAndDrop.test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestNGDemo - 2019.07.03 at 12h 46m 51s.xml">
-      <configuration name="TestNGDemo" configurationId="TestNG" />
+    <history-entry file="DragAndDrop_test2 - 2019.07.09 at 15h 04m 45s.xml">
+      <configuration name="DragAndDrop.test2" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestNGDemo - 2019.07.03 at 13h 21m 39s.xml">
-      <configuration name="TestNGDemo" configurationId="TestNG" />
+    <history-entry file="DragAndDrop_test2 - 2019.07.09 at 15h 05m 24s.xml">
+      <configuration name="DragAndDrop.test2" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AssertionsDemo_testOne - 2019.07.03 at 13h 39m 11s.xml">
-      <configuration name="AssertionsDemo.testOne" configurationId="TestNG" />
+    <history-entry file="DragAndDrop_test2 - 2019.07.09 at 15h 06m 13s.xml">
+      <configuration name="DragAndDrop.test2" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AssertionsDemo - 2019.07.03 at 13h 44m 40s.xml">
-      <configuration name="AssertionsDemo" configurationId="TestNG" />
+    <history-entry file="FileExistsTest_test - 2019.07.09 at 15h 20m 26s.xml">
+      <configuration name="FileExistsTest.test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AssertionsDemo - 2019.07.03 at 13h 53m 37s.xml">
-      <configuration name="AssertionsDemo" configurationId="TestNG" />
+    <history-entry file="FileExistsTest_test - 2019.07.09 at 15h 22m 25s.xml">
+      <configuration name="FileExistsTest.test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AssertionsDemo - 2019.07.03 at 13h 55m 34s.xml">
-      <configuration name="AssertionsDemo" configurationId="TestNG" />
+    <history-entry file="FileExistsTest_test - 2019.07.09 at 15h 27m 08s.xml">
+      <configuration name="FileExistsTest.test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ATestThatCleansUp_searchAmazon - 2019.07.03 at 14h 11m 29s.xml">
-      <configuration name="ATestThatCleansUp.searchAmazon" configurationId="TestNG" />
+    <history-entry file="FileExistsTest_test - 2019.07.09 at 15h 30m 19s.xml">
+      <configuration name="FileExistsTest.test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ATestThatCleansUp - 2019.07.03 at 14h 15m 53s.xml">
-      <configuration name="ATestThatCleansUp" configurationId="TestNG" />
+    <history-entry file="FileExistsTest_test - 2019.07.09 at 15h 31m 04s.xml">
+      <configuration name="FileExistsTest.test" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -339,10 +416,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.68416804" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40710825" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -351,15 +427,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" internal_type="SLIDING" order="2" type="SLIDING" visible="true" weight="0.2919708" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990755" />
+      <window_info anchor="bottom" id="Run" internal_type="SLIDING" order="2" type="SLIDING" weight="0.34160584" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39854014" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="TODO" order="6" visible="true" weight="0.32846716" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3186969" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.31506848" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50080776" side_tool="true" weight="0.3" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32876712" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49919224" visible="true" weight="0.31970802" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32844576" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49919224" weight="0.34160584" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -370,10 +446,51 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="batch8Practice added" />
-    <option name="LAST_COMMIT_MESSAGE" value="batch8Practice added" />
+    <MESSAGE value="batch8Practice added-2nd part" />
+    <option name="LAST_COMMIT_MESSAGE" value="batch8Practice added-2nd part" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -407,13 +524,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/day4/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/day4/test2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -438,16 +548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" selection-end-line="41" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/FirstAutomationScript.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -480,16 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="945">
           <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/BrowserFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -545,33 +635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/day6/RadioButtonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" column="5" selection-start-line="33" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/day6/CheckBoxTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="88" selection-start-line="31" selection-start-column="60" selection-end-line="31" selection-end-column="88" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/SeleniumUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/day6/WikipediaSelenium.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -609,17 +672,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/locatorsHomework/GoogleResultsTitle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="54" column="74" selection-start-line="49" selection-start-column="11" selection-end-line="54" selection-end-column="74" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/batch8Practice/UnitTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/TestNGPreviousBatches/UnitTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
@@ -629,27 +682,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/batch8Practice/AssertionsDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/batch8Practice/ATestThatCleansUp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/batch8Practice/Unit.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/TestNGPreviousBatches/Unit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
@@ -666,12 +699,335 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/batch8Practice/TestNGDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/TestNGPreviousBatches/AssertionsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/locatorsHomework/GoogleResultsTitle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/TestNGPreviousBatches/TestNGDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/TestNGPreviousBatches/ATestThatCleansUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/BrowserFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/AmazonDepartmentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="49" column="9" lean-forward="true" selection-start-line="37" selection-start-column="4" selection-end-line="49" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/SeleniumUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/day6/CheckBoxTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/TestNGPreviousBatches/MoreDependenciesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/TestNGPreviousBatches/DependenciesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/TestNGPreviousBatches/OrderOfThings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/day4/TestMaininInterface.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/day4/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/AmazonDepartmentsAlphabeticalOrderVerification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/day6/RadioButtonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/day4/Temp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/FirstAutomationScript.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/day7/HTMLPopups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/day8/Task1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/day7/DrowpDownsPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/day7/TabsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/IFrameDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/GoogleDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/SoftAssertionExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/FileExistsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/DragAndDrop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/ScrollTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/HoverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/DoubleClickTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>TestAutomationSpring2019</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
